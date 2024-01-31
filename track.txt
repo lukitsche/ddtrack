@@ -1,0 +1,7 @@
+2024-01-31 09:17:58 I motd: │ Map: Destruction
+2024-01-31 09:19:04 I client: disconnecting. reason='unknown'
+2024-01-31 09:19:05 I motd: │ Map: Multeasymap
+2024-01-31 09:19:51 I client: disconnecting. reason='unknown'
+2024-01-31 14:23:47 I motd: │ Map: Deadline 1
+2024-01-31 14:23:50 I client: disconnecting. reason='unknown'
+
